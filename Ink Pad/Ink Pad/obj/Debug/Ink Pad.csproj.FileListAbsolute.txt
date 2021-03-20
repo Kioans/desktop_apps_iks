@@ -1,0 +1,47 @@
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe.config
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\bin\Debug\Ink Pad.pdb
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\MainWindow.g.cs
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\App.g.cs
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.lref
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\MainWindow.baml
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\Ink Pad.g.resources
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.cache
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.CoreCompileInputs.cache
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\Ink Pad.exe
+D:\Projects\ITMO\8CourseOsipov\Ink Pad\Ink Pad\obj\Debug\Ink Pad.pdb
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe.config
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\Ink Pad.pdb
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csprojAssemblyReference.cache
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\MainWindow.g.cs
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\App.g.cs
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.lref
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\MainWindow.baml
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad.g.resources
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.cache
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.CoreCompileInputs.cache
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.CopyComplete
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad.exe
+C:\ITMO\lab1-3\Ink Pad\Ink Pad\obj\Debug\Ink Pad.pdb
