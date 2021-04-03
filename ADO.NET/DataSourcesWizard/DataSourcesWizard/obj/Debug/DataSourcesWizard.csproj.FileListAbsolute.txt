@@ -1,0 +1,19 @@
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb

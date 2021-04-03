@@ -1,0 +1,19 @@
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+E:\University\Osipov\ADO-NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb

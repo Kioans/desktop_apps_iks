@@ -1,0 +1,19 @@
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb
+E:\University\Osipov\ADO-NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb

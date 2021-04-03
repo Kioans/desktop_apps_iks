@@ -1,0 +1,20 @@
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+E:\University\Osipov\ADO-NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb

@@ -1,0 +1,20 @@
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+E:\University\Osipov\ADO-NET\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBCommand\DBCommand\obj\Debug\DBCommand.pdb

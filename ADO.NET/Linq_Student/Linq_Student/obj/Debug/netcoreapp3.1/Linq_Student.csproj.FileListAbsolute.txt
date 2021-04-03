@@ -1,0 +1,26 @@
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.exe
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.deps.json
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.runtimeconfig.json
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.runtimeconfig.dev.json
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.dll
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.pdb
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.AssemblyInfoInputs.cache
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.AssemblyInfo.cs
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.dll
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.pdb
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.genruntimeconfig.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.deps.json
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.runtimeconfig.json
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.runtimeconfig.dev.json
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.AssemblyInfoInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.AssemblyInfo.cs
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.genruntimeconfig.cache

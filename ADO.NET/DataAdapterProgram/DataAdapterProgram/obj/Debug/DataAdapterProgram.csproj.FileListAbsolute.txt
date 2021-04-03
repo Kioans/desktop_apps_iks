@@ -1,0 +1,20 @@
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+E:\University\Osipov\ADO-NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

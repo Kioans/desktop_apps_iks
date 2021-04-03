@@ -1,0 +1,21 @@
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfoInputs.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfo.cs
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.deps.json
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.pdb
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfoInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfo.cs
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.deps.json
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CopyComplete

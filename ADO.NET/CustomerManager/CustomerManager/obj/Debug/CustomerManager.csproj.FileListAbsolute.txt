@@ -1,0 +1,123 @@
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Options.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Buffers.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Collections.Immutable.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.ComponentModel.Annotations.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Memory.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Numerics.Vectors.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Options.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Buffers.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Collections.Immutable.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Memory.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Numerics.Vectors.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CodeFirst.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Buffers.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Memory.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\CodeFirst.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Buffers.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Memory.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.CustomerViewer.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb

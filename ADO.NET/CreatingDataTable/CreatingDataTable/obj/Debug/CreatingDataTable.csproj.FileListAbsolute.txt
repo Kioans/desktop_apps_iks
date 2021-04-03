@@ -1,0 +1,19 @@
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+E:\University\Osipov\ADO-NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb

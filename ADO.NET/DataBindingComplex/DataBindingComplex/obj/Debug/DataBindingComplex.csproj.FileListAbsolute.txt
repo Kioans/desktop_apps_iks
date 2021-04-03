@@ -1,0 +1,19 @@
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+E:\University\Osipov\ADO-NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb

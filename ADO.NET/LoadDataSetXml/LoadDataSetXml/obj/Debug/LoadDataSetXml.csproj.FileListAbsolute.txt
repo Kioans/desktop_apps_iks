@@ -1,0 +1,19 @@
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb

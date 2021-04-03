@@ -1,0 +1,36 @@
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\MySql.Data.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\Google.Protobuf.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\Zstandard.Net.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\Renci.SshNet.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\System.Memory.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\System.Buffers.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\bin\Debug\MySql.Data.xml
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.exe.config
+C:\Users\kioan\OneDrive - ITMO UNIVERSITY\ITMO\8 семестр\Создание ПО ИКС\ICT-master\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CopyComplete
